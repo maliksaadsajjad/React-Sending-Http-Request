@@ -75,4 +75,4 @@ function App() {
 
 export default App;
 
-// i forgor to commit for like 3 times
+// why r u readin dis
