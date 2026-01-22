@@ -74,5 +74,3 @@ function App() {
 }
 
 export default App;
-
-// why r u readin dis
