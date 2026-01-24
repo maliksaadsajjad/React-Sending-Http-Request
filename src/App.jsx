@@ -75,4 +75,4 @@ function App() {
 
 export default App;
 
-// 4.0 GPA in PF
+// hopefully i'll get 4.0 GPA in all
