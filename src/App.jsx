@@ -75,4 +75,4 @@ function App() {
 
 export default App;
 
-// hopefully i'll get 4.0 GPA in all
+// JDZ GANG ON TOP
