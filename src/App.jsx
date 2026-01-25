@@ -74,5 +74,3 @@ function App() {
 }
 
 export default App;
-
-// why would you read dis
