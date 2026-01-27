@@ -74,5 +74,3 @@ function App() {
 }
 
 export default App;
-
-// its 1:36 am bro
