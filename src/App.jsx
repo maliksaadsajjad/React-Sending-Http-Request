@@ -74,5 +74,3 @@ function App() {
 }
 
 export default App;
-
-// ha gottem
