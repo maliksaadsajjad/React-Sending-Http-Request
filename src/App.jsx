@@ -36,7 +36,7 @@ function App() {
 
   const handleRemovePlace = useCallback(async function handleRemovePlace() {
     setUserPlaces((prevPickedPlaces) =>
-      prevPickedPlaces.filter((place) => place.id !== selectedPlace.current.id)
+      prevPickedPlaces.filter((place) => place.id !== selectedPlace.current.id),
     );
 
     setModalIsOpen(false);
@@ -74,5 +74,3 @@ function App() {
 }
 
 export default App;
-
-// understanding sending http requests
