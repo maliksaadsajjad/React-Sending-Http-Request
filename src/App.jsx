@@ -74,7 +74,3 @@ function App() {
 }
 
 export default App;
-
-// let me show you how proud i am to be yours
-// leave this dress a mess on the floor
-// still look good 4 u, good 4 u, uh-huh
