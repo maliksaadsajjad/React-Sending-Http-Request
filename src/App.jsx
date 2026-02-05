@@ -75,4 +75,4 @@ function App() {
 
 export default App;
 
-// je kamli ve na puchdi
+// chamak chalo
